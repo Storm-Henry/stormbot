@@ -1,0 +1,14 @@
+{
+  "name": "twitchbot",
+  "version": "1.0.0",
+  "description": "\"This is the storm bot. It will sit in Storm Henry's chat and post gifs and youtube videos if its asked certain commands, and Mod's will be able to add media to it.... hopefully\",",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Storm Henry",
+  "license": "MIT",
+  "dependencies": {
+    "tmi.js": "^1.2.1"
+  }
+}
